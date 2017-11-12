@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510499786 source:c:\users\wojci\desktop\programowanie obiektowe\cw_4\analizator.cpp
+	"Analizator.hpp"
+	<iostream>
+	<string>
+
+1510499885 c:\users\wojci\desktop\programowanie obiektowe\cw_4\analizator.hpp
+	"Sygnal.hpp"
+	<iostream>
+	<string>
+
+1510499893 c:\users\wojci\desktop\programowanie obiektowe\cw_4\sygnal.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Probka.hpp"
+
+1510499711 c:\users\wojci\desktop\programowanie obiektowe\cw_4\probka.hpp
+	<iostream>
+	<string>
+
